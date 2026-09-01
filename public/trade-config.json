@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "MobileMoney -650484794",
+  "paymentMethod": "Mpesa",
   "tradeId": "TR-644551",
-  "amount": "100,980.00 XAF",
+  "amount": "43,000",
   "status": "waiting"
 }
